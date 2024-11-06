@@ -7,11 +7,13 @@ import buncha from './buncha.png'
 import bunthang from './bunthang.png'
 import bunrieu from './bunrieu.png'
 import xoikhuc from './xoikhuc.png'
+import cross_icon from './cross_icon.png'
 
 
 export const assets = {
     logo,
     header_img,
+    cross_icon,
 }
 
 export const menu_list = [
